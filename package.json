@@ -1,0 +1,25 @@
+{
+  "name": "atv-semtema",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jubinhadograu/repoPW2.git"
+  },
+  "version": "1.0.0",
+  "description": "atividade1-pw2 de uma...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "etec",
+    "barueri",
+    "pw2"
+  ],
+  "author": "Julia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
